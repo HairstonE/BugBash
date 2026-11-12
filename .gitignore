@@ -1,0 +1,10 @@
+.venv/
+uv.lock
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.tox/
+.coverage
+.DS_Store
+_local/
